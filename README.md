@@ -1,7 +1,7 @@
 ### Launch :
 first, you must have Node installed. Then open a terminal where your script to be executed is located and type : 
   ```
-$ node ./utherAnim.js
+$ node utherAnim
   ```
   
 ### Precisions :
